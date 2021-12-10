@@ -1,7 +1,7 @@
 # Python
-Parent Class: Employee
+## Parent Class: Employee
 
-Create a base class Employee that has the following attributes:
+**Create a base class Employee that has the following attributes:
 
 Employee Name (String)
 
