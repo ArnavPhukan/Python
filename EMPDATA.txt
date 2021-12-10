@@ -1,0 +1,15 @@
+Emp Name	Emp City	Dept Name	hoursWorked	hourlyRate	Salary	Dept Number	Dept Location	Project Type
+Lois	Atlanta	Physics	32	11	10000	100	1st Floor	1
+Brenda	Dallas	Chemistry	35	18	14000	101	2nd Floor	2
+Joe	Texas	Maths	30	21	17000	102	3rd Floor	3
+Diane	Vancouver	Computer	39	13	21000	103	2nd Floor	1
+Patrick	Austin	History	25	17	34000	104	1st Floor	2
+Nancy	New York	Economics	26	19	15000	105	3rd Floor	3
+Carol	Denver	Bioscience	18	24	16000	106	4th Floor	1
+Diana	Houston	Maths	34	22	19000	102	3rd Floor	2
+Joe	Texas	Maths	30	21	17000	102	3rd Floor	3
+Diane	Vancouver	Computer	39	13	21000	103	2nd Floor	1
+Patrick	Austin	History	25	17	34000	104	1st Floor	2
+Nancy	New York	Economics	26	19	15000	105	3rd Floor	3
+Carol	Denver	Bioscience	18	24	16000	106	4th Floor	1
+Diana	Houston	Maths	34	22	19000	102	3rd Floor	2
